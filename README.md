@@ -16,7 +16,7 @@ CSS – Styling and responsive layout
 JavaScript – Game logic and interactivity 
 
 Responsive Design
-This game works well across all devices — mobile phones, tablets, and laptops — thanks to responsive layout and media queries you can customize
+This game works well across all devices — mobile phones, tablets, and laptops — thanks to responsive layout and media queries you can customize GitHub
 
 👨‍💻 Author
 Abu Hanif
